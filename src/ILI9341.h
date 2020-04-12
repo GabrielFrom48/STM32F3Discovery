@@ -14,6 +14,7 @@
 #include "stm32f30x_spi.h"
 #include "Fonts.h"
 
+
 #define DATA            GPIO_BSRR_BS_3;
 #define COMMAND         GPIO_BSRR_BR_3;
 #define CSEL            GPIO_BSRR_BR_4;
